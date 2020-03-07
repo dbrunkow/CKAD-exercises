@@ -1,7 +1,5 @@
 List Namespaces
 
-<details><summary>show</summary>
-<p>
 
 ```bash
 kubectl run busybox --image=busybox --command --restart=Never -it -- env # -it will help in seeing the output
@@ -11,5 +9,3 @@ kubectl run busybox --image=busybox --command --restart=Never -- env
 kubectl logs busybox
 ```
 
-</p>
-</details>

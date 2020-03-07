@@ -1,11 +1,73 @@
+List all namespaces
+
+alias k=kubectl
+
+<details><summary>show</summary>
+<p>
+```bash
+k get ns
+k get namespace
+
+```
+</p>
+</details>
+
 List Namespaces
 
 
+<details><summary>show</summary>
+<p>
 ```bash
-kubectl run busybox --image=busybox --command --restart=Never -it -- env # -it will help in seeing the output
-# or, just run it without -it
-kubectl run busybox --image=busybox --command --restart=Never -- env
-# and then, check its logs
-kubectl logs busybox
-```
 
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>
+<details><summary>show</summary>
+<p>
+```bash
+
+
+```
+</p>
+</details>

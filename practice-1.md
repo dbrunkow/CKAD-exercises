@@ -37,11 +37,10 @@ Delete everything in the namespace
   pod "mypod-8cdb8c645-j5gm7" deleted
   deployment.extensions "mypod" deleted
   replicaset.extensions "mypod-8cdb8c645" deleted
-
-
 ```
 </p>
 </details>
+
 <details><summary>show</summary>
 <p>
 ```bash
